@@ -1,6 +1,6 @@
 # Break~Bread Discord Bot: Elevate Your Server Experience
 
-Introducing Break~Bread, a multifaceted Discord bot designed to amplify your server's functionality and community engagement. Whether you're looking to streamline chat moderation or inject a dose of fun into your server, Break~Bread offers an extensive suite of commands tailored to elevate your server's dynamics.
+Introducing BreakBread, a multifaceted Discord bot designed to amplify your server's functionality and community engagement. Whether you're looking to streamline chat moderation or inject a dose of fun into your server, Break~Bread offers an extensive suite of commands tailored to elevate your server's dynamics.
 
 ## Key Features
 
