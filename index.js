@@ -1254,7 +1254,7 @@ client.on('interactionCreate', async (interaction) => {
   if (!interaction.isCommand()) return;
 
   if (interaction.commandName === 'dev') {
-    const userId = '847373563441840128'; // User ID for the profile picture
+    const userId = ''; // User ID for the profile picture
     const user = await client.users.fetch(userId);
 
     // Delete the original command message
@@ -1277,7 +1277,7 @@ client.on('interactionCreate', async (interaction) => {
 
 
 
-const targetBotId = '1109414621296738325'; // Replace with your bot's user ID
+const targetBotId = ''; // Replace with your bot's user ID
 client.on('messageCreate', (message) => {
   if (
     message.content.includes(`<@${targetBotId}>`) &&
